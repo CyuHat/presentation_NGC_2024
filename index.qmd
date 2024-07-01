@@ -6,3 +6,71 @@ editor: visual
 ---
 
 ## Introduction
+
+-   Multiple migration phases, transnational lifestyle with multiple residences in different countries at the same time (Horn & Schweppe 2017; Amelina & Faist, 2012), serial or circular migration (Zufferey, 2019), and transnational family configurations (Bryceson and Vuorela 2002)
+
+-   “Families that live some or most of the time separated from each other, yet hold together and create something that can be seen as a feeling of collective welfare and unity, namely ‘familyhood’, even across national borders” (Bryceson & Vuorela, 2002, p. 3)
+
+-   Among migrants living in Switzerland, 7 out of 10 have close family members living abroad (SFSO 2019)
+
+## Mobility and return migration
+
+-   Decision based on the individualistic maximization of utility (NET) and/or on importance of social network (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+-   Mobility/emigration intentions are good predictors of mobility/emigration behaviors (Wanner, 2020; Bradley et al. 2008)
+
+-   Family events (union formation, union dissolution, childbirth, etc) trigger and job loss restrains moves (de Groot et al. 2011)
+
+-   Focus on the link between return migration and transnational families using a life trajectory approach
+
+## Research questions
+
+-   Is having family members abroad associated with stronger return intentions ?
+
+-   Is this observed at every point during the life course ?
+
+-   How life trajectories affect return intentions ?
+
+## Data and Methods
+
+### Data
+
+```{=html}
+<svg height="1000" width="2500">
+  <g>
+    <rect width="450" height="300" x="0" y="0" fill="red"/>
+    <text x="0" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center; font-weight: bold;">Migration-Mobility Survey 
+    (MMS)
+    recently arrived migrants in
+    Switzerland (last 14 years)
+    age range 24-54 
+    
+    longitudinal
+</text>
+  </g>
+  <g>
+    <rect width="450" height="100" x="0" y="300" fill="Pink"/>
+    <text x="0" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 988 migrants who migrated at 
+    18 or older
+</text>
+  </g>
+  <g>
+    <rect width="450" height="300" x="450" y="0" fill="CornflowerBlue"/>
+    <text x="450" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center; font-weight: bold;">Transnational Ageing Survey
+    (TAS)
+    55+ migrants living in
+    Switzerland
+    
+    transversal
+</text>
+  </g>
+  <g>
+    <rect width="450" height="100" x="450" y="300" fill="LightSkyBlue"/>
+    <text x="450" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 1,420 migrants who migrated
+    at 18 or older</text>
+  </g>
+</svg>
+```
+### Methods
+
+**Pseudo-panel analyses**
