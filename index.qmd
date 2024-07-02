@@ -82,27 +82,19 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-![](Intention to leave switzerland.PNG){fig-align="center"}
+![](Intention%20to%20leave%20switzerland.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](Partner is abroad.PNG){fig-align="center"}
+![](Partner%20is%20abroad.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
-![](Children abroad.PNG){fig-align="center"}
+![](Children%20abroad.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
--   Methodological choice of using two different (but complementary ) surveys
-
--   Selection effect those who have high mobility intentions may have already left
-
--   Voluntary or involuntary transnational arrangements? (Levin 2004; Roseneil 2006)
-
--   No information about where the other members of the (extended) transnational family live (country of origin, another country,…) and the strength of family ties
-
-## Conclusion and next step
+## Summary
 
 -   Period of the life determines mobility intentions (related to working and non working ages)
 
@@ -114,13 +106,25 @@ editor: visual
 
     -   less important for people of working ages who recently arrived in
 
-## Conclusion and next step
+## Limits
 
--   Covid-19
+-   Methodological choice of using two different (but complementary ) surveys
 
--   Embedding / Anchoring
+-   Selection effect those who have high mobility intentions may have already left
 
--   
+-   Voluntary or involuntary transnational arrangements? (Levin 2004; Roseneil 2006)
+
+-   No information about where the other members of the (extended) transnational family live (country of origin, another country,…) and the strength of family ties
+
+## Next step: Covid-19 case (1)
+
+-   Covid-19: impacted the 2020 MMS and TAS wave
+
+-   Weak impact on the migration plan but slight difference
+
+## Next step: Covid-19 case (2)
+
+## Next step: Anchoring
 
 ------------------------------------------------------------------------
 
