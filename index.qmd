@@ -118,13 +118,49 @@ editor: visual
 
 ## Next step: Covid-19 case (1)
 
--   Covid-19: impacted the 2020 MMS and TAS wave
+-   Covid-19: impacted the 2020 MMS and TAS wave since the data was collected in this period
 
--   Weak impact on the migration plan but slight difference
+-   Weak impact on the migration plan of the individuals (MMS) but slight difference for recently arrived migrants
+
+    -   Only 3% of MMS respondant reported that the Covid-19 outbreak affected their plan regarding their stay in Switzerland.
+
+    -   It is unlinkely to have an effect
 
 ## Next step: Covid-19 case (2)
 
+```{=html}
+<!-- <div class='tableauPlaceholder' id='viz1719932275790' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;app&#47;profile&#47;nccr.on.the.move&#47;viz&#47;Migration-MobilitySurvey-Exploration&#47;Survey'><img alt='Survey ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X2Q8NCYFD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719932275790');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='760px';vizElement.style.height='927px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> -->
+```
+## Next step: Covid-19 case (3)
+
+```{=html}
+<svg width="3000", height="1500">
+  <g>
+    <rect width="200" height="150" x="0" y="0" fill="red"/>
+    
+  </g>
+  <g>
+    <rect width="200" height="150" x="400" y="0" fill="blue"/>
+    
+  </g>
+  <g>
+    <rect width="200" height="150" x="800" y="0" fill="green"/>
+    
+  </g>
+</svg>
+```
+
+------------------------------------------------------------------------
+
+-   Idea: since we may have sufficient older migrants (\>54 y/o) in the MMS that came in switzerland equal or more than 10 years ago, we can add them to the dataset to control for the effect of the Covid-19.
+
+    -   Need to test the idea!
+
 ## Next step: Anchoring
+
+-   **Ancoring:** Way migrants create reference point to improve their socio-psychological stability
+
+-   **Embedding:** Way migrants integrate themselves into the host society.
 
 ------------------------------------------------------------------------
 
