@@ -31,6 +31,8 @@ editor: visual
 
 -   How life trajectories affect return intentions ?
 
+-   [How external event such as the pandemic impact migration intention?]{style="color: blue;"}
+
 ## Data and Methods
 
 ### Data
@@ -116,7 +118,44 @@ editor: visual
 
 -   No information about where the other members of the (extended) transnational family live (country of origin, another country,…) and the strength of family ties
 
-## Next step: Covid-19 case (1)
+## Next step: Covid-19 case ()
+
+-   The pandemic had an impact on the physical ability to travel, with countries closing their borders and restricting mobility to varying degrees (Bloomfield & Ratha, 2020)
+
+    -   Announcements of border closures in certain countries prompted many people to return to their home countries out of concern about being stranded without income and lacking access to social protections.
+        -   Some states carried out large-scale repatriation efforts with the aim of aiding migrants in returning to their home countries (Australia, Canada, Egypt, India, Pakistan, Switzerland, United Kingdom and many others).
+        -   Yet, numerous countries faced challenges in funding or coordinating these repatriation efforts, leaving many migrants vulnerable.
+    -   Stranded migration has led to a significant number of individuals worldwide experiencing precarious situations.
+
+## Next step: Covid-19 case ()
+
+Factor affecting return migration
+
+-   Economic: Job loss or Income loss
+
+-   Health risk: Access to health care
+
+-   Travel restriction: Prevent individual from moving
+
+In Switzerland
+
+-   The use of short-time work measures helped mitigate some job losses.
+
+    -   Companies could temporarily reduce employees' working hours.
+
+    -   Employees would work and be paid for reduced hours by their employer.
+
+    -   The unemployment insurance fund would cover 80% of the lost income from the reduced hours.
+
+    -   This allowed employees to retain 90% of their original salary in many cases.
+
+-   Travel restriction
+
+    -   Border closed from March 17th to June 15th
+
+    -   Testing and Quarantine for high risk country
+
+## Next step: Covid-19 case ()
 
 -   Covid-19: impacted the 2020 MMS and TAS wave since the data was collected in this period
 
@@ -126,12 +165,11 @@ editor: visual
 
     -   It is unlinkely to have an effect
 
-## Next step: Covid-19 case (2)
+## Next step: Covid-19 case ()
 
-```{=html}
 <!-- <div class='tableauPlaceholder' id='viz1719932275790' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;app&#47;profile&#47;nccr.on.the.move&#47;viz&#47;Migration-MobilitySurvey-Exploration&#47;Survey'><img alt='Survey ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X2Q8NCYFD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719932275790');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='760px';vizElement.style.height='927px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> -->
-```
-## Next step: Covid-19 case (3)
+
+## Next step: Covid-19 case ()
 
 ```{=html}
 <svg width="3000", height="1500">
