@@ -7,21 +7,21 @@ editor: visual
 
 ## Introduction
 
--   Multiple migration phases, transnational lifestyle with multiple residences in different countries at the same time (Horn & Schweppe 2017; Amelina & Faist, 2012), serial or circular migration (Zufferey, 2019), and transnational family configurations (Bryceson and Vuorela 2002)
+-   Multiple migration phases, **transnational lifestyle** with multiple residences in different countries at the same time (Horn & Schweppe 2017; Amelina & Faist, 2012), **serial or circular migration** (Zufferey, 2019), **and transnational family configurations** (Bryceson and Vuorela 2002)
 
--   “Families that live some or most of the time separated from each other, yet hold together and create something that can be seen as a feeling of collective welfare and unity, namely ‘familyhood’, even across national borders” (Bryceson & Vuorela, 2002, p. 3)
+-   “Families that **live some or most of the time separated from each other**, yet hold together and create something that can be seen as a feeling of collective welfare and unity, namely **‘familyhood’, even across national borders**” (Bryceson & Vuorela, 2002, p. 3)
 
--   Among migrants living in Switzerland, 7 out of 10 have close family members living abroad (SFSO 2019)
+-   Among migrants living in Switzerland, 7 out of 10 have **close family members living abroad** (SFSO 2019)
 
 ## Mobility and return migration
 
--   Decision based on the individualistic maximization of utility (NET) and/or on importance of social network (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+-   Decision based on the individualistic maximization of utility (NET) and/or on **importance of social network** (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
 
--   Mobility/emigration intentions are good predictors of mobility/emigration behaviors (Wanner, 2020; Bradley et al. 2008)
+-   Mobility/emigration **intentions** are good predictors of mobility/emigration **behaviors** (Wanner, 2020; Bradley et al. 2008)
 
--   Family events (union formation, union dissolution, childbirth, etc) trigger and job loss restrains moves (de Groot et al. 2011)
+-   Family events (union formation, union dissolution, childbirth, etc) **trigger** and job loss **restrains** moves (de Groot et al. 2011)
 
--   Focus on the link between return migration and transnational families using a life trajectory approach
+    [Focus on the link between return migration and transnational families using a life trajectory approach]{style="color: red;"}
 
 ## Research questions
 
@@ -31,7 +31,7 @@ editor: visual
 
 -   How life trajectories affect return intentions ?
 
--   [How external event such as the pandemic impact migration intention?]{style="color: blue;"}
+-   [(new) How external event such as the pandemic impact migration intention?]{style="color: blue;"}
 
 ## Data and Methods
 
@@ -80,7 +80,7 @@ editor: visual
 
 **Pseudo-panel analyses**
 
-![Own made](panel_design.PNG){fig-align="center"}
+![](panel_design.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -110,95 +110,113 @@ editor: visual
 
 ## Limits
 
--   Methodological choice of using two different (but complementary ) surveys
+-   **Methodological choice** of using two different (but complementary) surveys
 
--   Selection effect those who have high mobility intentions may have already left
+-   **Selection effect:** those who have high mobility intentions may have already left
 
--   Voluntary or involuntary transnational arrangements? (Levin 2004; Roseneil 2006)
+-   **Voluntary or involuntary** transnational arrangements? (Levin 2004; Roseneil 2006)
 
--   No information about where the other members of the (extended) transnational family live (country of origin, another country,…) and the strength of family ties
+-   No information about **where** the other members of the (extended) transnational family live (country of origin, another country, …) and the **strength of family ties**
 
-## Next step: Covid-19 case ()
+## Next step: Covid-19
 
--   The pandemic had an impact on the physical ability to travel, with countries closing their borders and restricting mobility to varying degrees (Bloomfield & Ratha, 2020)
+-   The **pandemic** had an impact on the physical ability to travel, with countries **closing their borders** and **restricting mobility** to varying degrees (Bloomfield & Ratha, 2020)
 
-    -   Announcements of border closures in certain countries prompted many people to return to their home countries out of concern about being stranded without income and lacking access to social protections.
-        -   Some states carried out large-scale repatriation efforts with the aim of aiding migrants in returning to their home countries (Australia, Canada, Egypt, India, Pakistan, Switzerland, United Kingdom and many others).
-        -   Yet, numerous countries faced challenges in funding or coordinating these repatriation efforts, leaving many migrants vulnerable.
-    -   Stranded migration has led to a significant number of individuals worldwide experiencing precarious situations.
+    -   Announcements of border closures in certain countries prompted many people to **return to their home countries** out of concern about being **stranded** without income and lacking access to **social protections**.
+    -   **Stranded migration** has led to a significant number of individuals worldwide experiencing **precarious situations**.
 
-## Next step: Covid-19 case ()
+## Next step: Covid-19
 
 Factor affecting return migration
 
--   Economic: Job loss or Income loss
+-   **Economic:** Job loss or Income loss
 
--   Health risk: Access to health care
+-   **Health risk:** Access to health care
 
--   Travel restriction: Prevent individual from moving
+-   **Travel restriction:** Prevent individual from moving
 
-In Switzerland
+## Covid-19: In Switzerland (1)
 
--   The use of short-time work measures helped mitigate some job losses.
+-   The use of **short-time work measures** helped mitigate some job losses.
 
-    -   Companies could temporarily reduce employees' working hours.
+    -   Companies could **temporarily reduce employees' working hours**.
 
-    -   Employees would work and be paid for reduced hours by their employer.
+    -   The **unemployment insurance fund** would **cover 80% of the lost income** from the reduced hours.
 
-    -   The unemployment insurance fund would cover 80% of the lost income from the reduced hours.
+    -   This allowed employees to retain **90% of their original salary** in many cases.
 
-    -   This allowed employees to retain 90% of their original salary in many cases.
+## Covid-19: In Switzerland (2)
 
--   Travel restriction
+-   **Travel restriction**
 
-    -   Border closed from March 17th to June 15th
+    -   Border **closed** from March 17th to June 15th
 
-    -   Testing and Quarantine for high risk country
-
-## Next step: Covid-19 case ()
-
--   Covid-19: impacted the 2020 MMS and TAS wave since the data was collected in this period
-
--   Weak impact on the migration plan of the individuals (MMS) but slight difference for recently arrived migrants
-
-    -   Only 3% of MMS respondant reported that the Covid-19 outbreak affected their plan regarding their stay in Switzerland.
-
-    -   It is unlinkely to have an effect
+    -   **Testing** and **Quarantine** for high risk country
 
 ## Next step: Covid-19 case ()
+
+-   **Covid-19**: impacted the 2020 [**MMS** ]{style="color: blue;"} and [**TAS**]{style="color: red;"}wave since the data was collected in this period
+
+-   **Weak impact on the migration plan** of the individuals ([**MMS**]{style="color: blue;"}) but slight difference for recently arrived migrants
+
+    -   Only [**3% of MMS**]{style="color: blue;"} respondant reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
+
+    -   **It is unlinkely to have an effect**
+
+## Next step: Covid-19
 
 <!-- <div class='tableauPlaceholder' id='viz1719932275790' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;app&#47;profile&#47;nccr.on.the.move&#47;viz&#47;Migration-MobilitySurvey-Exploration&#47;Survey'><img alt='Survey ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X2Q8NCYFD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719932275790');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='760px';vizElement.style.height='927px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> -->
 
-## Next step: Covid-19 case ()
+## Next step: Covid-19
 
 ```{=html}
+
+<img src="panel_design.PNG">
 <svg width="3000", height="1500">
   <g>
-    <rect width="200" height="150" x="0" y="0" fill="red"/>
-    
+    <rect width="200" height="150" x="0" y="0" fill="#c00000"/>
+    <text x="0" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2020
+    Wave 2022 
+    arrived:
+    two years ago
+</text>
   </g>
   <g>
-    <rect width="200" height="150" x="400" y="0" fill="blue"/>
-    
+    <rect width="200" height="150" x="400" y="0" fill="#c00000"/>
+    <text x="400" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2022
+    Wave 2022
+</text>
   </g>
   <g>
-    <rect width="200" height="150" x="800" y="0" fill="green"/>
-    
+    <rect width="200" height="150" x="800" y="0" fill="#c00000"/>
+    <text x="800" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2016-2022
+    +55 years old
+    arrived:
+    > 10 years ago
+</text>
   </g>
 </svg>
 ```
 
 ------------------------------------------------------------------------
 
--   Idea: since we may have sufficient older migrants (\>54 y/o) in the MMS that came in switzerland equal or more than 10 years ago, we can add them to the dataset to control for the effect of the Covid-19.
-
-    -   Need to test the idea!
-
 ## Next step: Anchoring
 
--   **Ancoring:** Way migrants create reference point to improve their socio-psychological stability
+**Limit: Strength of family ties unknown**
+
+-   **Anchoring:** Way migrants create reference point to improve their socio-psychological stability
 
 -   **Embedding:** Way migrants integrate themselves into the host society.
+
+**Adding the level anchoring variable might**
+
+-   Anchoring = Attachment to Switzerland - Attachment to country of origin
+
+**Limits:**
+
+-   Attachment to country of origin missing in **TAS**
+
+-   Share willing to go to the country of origin: [**52% MMS**]{style="color: red;"} and [**73% TAS**]{style="color: blue;"}
 
 ------------------------------------------------------------------------
 
