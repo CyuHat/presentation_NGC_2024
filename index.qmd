@@ -38,44 +38,7 @@ editor: visual
 
 ## Data and Methods
 
-### Data
-
-```{=html}
-<svg height="1000" width="2500">
-  <g>
-    <rect width="450" height="300" x="0" y="0" fill="red"/>
-    <text x="0" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center; font-weight: bold;">Migration-Mobility Survey 
-    (MMS)
-    recently arrived migrants in
-    Switzerland (last 14 years)
-    age range 24-54 
-    
-    longitudinal
-</text>
-  </g>
-  <g>
-    <rect width="450" height="100" x="0" y="300" fill="Pink"/>
-    <text x="0" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 983 migrants who migrated at 
-    24 or older
-</text>
-  </g>
-  <g>
-    <rect width="450" height="300" x="450" y="0" fill="CornflowerBlue"/>
-    <text x="450" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center; font-weight: bold;">Transnational Ageing Survey
-    (TAS)
-    >54 migrants living in
-    Switzerland
-    
-    transversal
-</text>
-  </g>
-  <g>
-    <rect width="450" height="100" x="450" y="300" fill="LightSkyBlue"/>
-    <text x="450" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 1,193 migrants who migrated
-    at 18 or older</text>
-  </g>
-</svg>
-```
+![](data.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -190,36 +153,7 @@ No information yet.
 
 ------------------------------------------------------------------------
 
-```{=html}
-
-<img src="panel_design.PNG">
-<svg width="3000", height="1500">
-  <g>
-    <rect width="200" height="150" x="0" y="0" fill="#c00000"/>
-    <text x="0" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2020
-    Wave 2022 
-    arrived:
-    two years ago
-</text>
-  </g>
-  <g>
-    <rect width="200" height="150" x="400" y="0" fill="#c00000"/>
-    <text x="400" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2022
-    18-54 years old
-    arrived:
-    18 or older y/o
-</text>
-  </g>
-  <g>
-    <rect width="200" height="150" x="800" y="0" fill="#c00000"/>
-    <text x="800" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2016-2022
-    >54 years old
-    arrived:
-    > 10 years ago
-</text>
-  </g>
-</svg>
-```
+![](new_data.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
