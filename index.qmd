@@ -1,7 +1,10 @@
 ---
 title: "Evolution of Mobility Intentions over the Life Course among Migrants with a Transnational Family"
 author: "Roxane Gerber, Laura Ravazzini & Vestin Hategekimana"
-format: revealjs
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    logo: nccrotm.png
 editor: visual
 ---
 
@@ -21,17 +24,17 @@ editor: visual
 
 -   Family events (union formation, union dissolution, childbirth, etc) **trigger** and job loss **restrains** moves (de Groot et al. 2011)
 
-    [Focus on the link between return migration and transnational families using a life trajectory approach]{style="color: red;"}
+    [Focus on the link between mobility and transnational families using a life course trajectory approach]{style="color: red;"}
 
 ## Research questions
 
--   Is having family members abroad associated with stronger return intentions ?
+-   Is having family members abroad associated with stronger mobility intentions ?
 
 -   Is this observed at every point during the life course ?
 
 -   How life trajectories affect return intentions ?
 
--   [(new) How external event such as the pandemic impact migration intention?]{style="color: blue;"}
+-   [(new) ]{style="color: blue;"}How does the COVID-19 epidemic influence mobility intentions?
 
 ## Data and Methods
 
@@ -52,15 +55,15 @@ editor: visual
   </g>
   <g>
     <rect width="450" height="100" x="0" y="300" fill="Pink"/>
-    <text x="0" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 988 migrants who migrated at 
-    18 or older
+    <text x="0" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 983 migrants who migrated at 
+    24 or older
 </text>
   </g>
   <g>
     <rect width="450" height="300" x="450" y="0" fill="CornflowerBlue"/>
     <text x="450" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center; font-weight: bold;">Transnational Ageing Survey
     (TAS)
-    55+ migrants living in
+    >54 migrants living in
     Switzerland
     
     transversal
@@ -68,7 +71,7 @@ editor: visual
   </g>
   <g>
     <rect width="450" height="100" x="450" y="300" fill="LightSkyBlue"/>
-    <text x="450" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 1,420 migrants who migrated
+    <text x="450" y="330" font-family="Verdana" font-size="25" fill="black" style="white-space: pre-line; text-align: center;">N = 1,193 migrants who migrated
     at 18 or older</text>
   </g>
 </svg>
@@ -88,27 +91,29 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-![](Partner%20is%20abroad.PNG){fig-align="center"}
+![](regression%20table.PNG)
 
 ------------------------------------------------------------------------
 
-![](Children%20abroad.PNG){fig-align="center"}
+![](determinants.PNG)
 
 ------------------------------------------------------------------------
 
 ## Summary
 
--   Period of the life determines mobility intentions (related to working and non working ages)
+-   Having **family abroad** have an effect on mobility intention
 
-    -   In general, migrants of the older cohort are associated with higher intentions to return/move abroad
+    -   **Reduce** mobility intention for **partners** living abroad
 
--   Having family abroad is a pull factor for (pre --)retirees’ return/re emigration intentions
+    -   **Increase** mobility intention for **children** living abroad
 
-    -   This effect becomes stronger for over the life cycle
+<!-- -->
 
-    -   less important for people of working ages who recently arrived in
+-   **Period of the life determines mobility intentions** (related to working and non working ages)
 
-## Limits
+    -   In general, migrants of the **older cohort** are associated with **higher intentions to move abroad**
+
+## Limits (1)
 
 -   **Methodological choice** of using two different (but complementary) surveys
 
@@ -118,16 +123,18 @@ editor: visual
 
 -   No information about **where** the other members of the (extended) transnational family live (country of origin, another country, …) and the **strength of family ties**
 
-## Next step: Covid-19
+-   [**No control for COVID-19 effect**]{style="color: blue;"}
+
+## Next step 1: Covid-19
 
 -   The **pandemic** had an impact on the physical ability to travel, with countries **closing their borders** and **restricting mobility** to varying degrees (Bloomfield & Ratha, 2020)
 
     -   Announcements of border closures in certain countries prompted many people to **return to their home countries** out of concern about being **stranded** without income and lacking access to **social protections**.
     -   **Stranded migration** has led to a significant number of individuals worldwide experiencing **precarious situations**.
 
-## Next step: Covid-19
+## Next step 1: Covid-19
 
-Factor affecting return migration
+### Factor affecting return migration
 
 -   **Economic:** Job loss or Income loss
 
@@ -136,6 +143,8 @@ Factor affecting return migration
 -   **Travel restriction:** Prevent individual from moving
 
 ## Covid-19: In Switzerland (1)
+
+### Economic
 
 -   The use of **short-time work measures** helped mitigate some job losses.
 
@@ -147,27 +156,53 @@ Factor affecting return migration
 
 ## Covid-19: In Switzerland (2)
 
--   **Travel restriction**
+### **Travel restriction**
 
-    -   Border **closed** from March 17th to June 15th
+-   Border **closed** from March 17th to June 15th
 
-    -   **Testing** and **Quarantine** for high risk country
+-   **Testing** and **Quarantine** for high risk country
 
-## Next step: Covid-19 case ()
+### Health
 
--   **Covid-19**: impacted the 2020 [**MMS** ]{style="color: blue;"} and [**TAS**]{style="color: red;"}wave since the data was collected in this period
+No information yet.
 
--   **Weak impact on the migration plan** of the individuals ([**MMS**]{style="color: blue;"}) but slight difference for recently arrived migrants
+## Next step 1: Covid-19
 
-    -   Only [**3% of MMS**]{style="color: blue;"} respondant reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
+-   **Covid-19**: impacted the wave 2020 [**MMS**]{style="color: red;"} and [**TAS**]{style="color: blue;"} since the data was collected in this period
+
+-   **Weak impact on the migration plan** of the individuals ([**MMS**]{style="color: red;"})
+
+    -   Only [**6% of MMS**]{style="color: red;"} respondant reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
 
     -   **It is unlinkely to have an effect**
 
-## Next step: Covid-19
+------------------------------------------------------------------------
 
-<!-- <div class='tableauPlaceholder' id='viz1719932275790' style='position: relative'><noscript><a href='https:&#47;&#47;public.tableau.com&#47;app&#47;profile&#47;nccr.on.the.move&#47;viz&#47;Migration-MobilitySurvey-Exploration&#47;Survey'><img alt='Survey ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;X2Q8NCYFD' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;X2&#47;X2Q8NCYFD&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1719932275790');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='760px';vizElement.style.height='927px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script> -->
+### [2020](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
 
-## Next step: Covid-19
+![](covid19_impact_2020.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+### [2022](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
+
+![](covid19_impact_2022.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+### But...
+
+-   Bigger impact on recently arrived migrants (0-4 years)
+
+    -   **2020: 9%** of recently arrived migrant **vs 5%** for the rest
+
+    -   **2022: 10%** of recently arrived migrant **vs 5%** for the rest
+
+**H: We expect a bigger effect of COVID-19 at the beggining of migrants life course.**
+
+-   To compare the effect of COVID-19 over the life course we need **data from the pandemic period in every life cycle step**.
+
+------------------------------------------------------------------------
 
 ```{=html}
 
@@ -184,13 +219,15 @@ Factor affecting return migration
   <g>
     <rect width="200" height="150" x="400" y="0" fill="#c00000"/>
     <text x="400" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2022
-    Wave 2022
+    18-54 years old
+    arrived:
+    18 or older y/o
 </text>
   </g>
   <g>
     <rect width="200" height="150" x="800" y="0" fill="#c00000"/>
     <text x="800" y="30" font-family="Verdana" font-size="25" fill="white" style="white-space: pre-line; text-align: center;">2016-2022
-    +55 years old
+    >54 years old
     arrived:
     > 10 years ago
 </text>
@@ -200,26 +237,34 @@ Factor affecting return migration
 
 ------------------------------------------------------------------------
 
-## Next step: Anchoring
+## Thank you for your attention!
+
+[vestin.hategekimana\@unige.ch](vestin.hategekimana@unige.ch)
+
+------------------------------------------------------------------------
+
+## Next step 2: Anchoring
 
 **Limit: Strength of family ties unknown**
 
 -   **Anchoring:** Way migrants create reference point to improve their socio-psychological stability
 
--   **Embedding:** Way migrants integrate themselves into the host society.
+**Comparing the relative level of attachment to the host vs country of origin**
 
-**Adding the level anchoring variable might**
-
--   Anchoring = Attachment to Switzerland - Attachment to country of origin
-
-**Limits:**
-
--   Attachment to country of origin missing in **TAS**
-
--   Share willing to go to the country of origin: [**52% MMS**]{style="color: red;"} and [**73% TAS**]{style="color: blue;"}
+-   [Anchoring = Attach. to country of origin - Attach. to Switzerland]{style="color: red;"}
+-   Only on migrants returning to the country of origin
+-   Only on migrants with family on the country of origin
 
 ------------------------------------------------------------------------
 
-## Thank you for your attention!
+## Limits (2)
 
-[vestin.hategekimana\@unige.ch](vestin.hategekimana@unige.ch)
+-   Attachment to country of origin missing in [**TAS**]{style="color: blue;"}
+
+-   Share willing to go to the country of origin: [**52% MMS**]{style="color: red;"} and [**73% TAS**]{style="color: blue;"}
+
+    -   Up to half of the data
+
+-   **Colinerarity** between haveing a **family member** in the country of origin and the **level of attachment** in the country of origin
+
+    -   Anchoring = relative level of attachment
