@@ -178,18 +178,6 @@ No information yet.
 
 ------------------------------------------------------------------------
 
-### [2020](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
-
-![](covid19_impact_2020.PNG){fig-align="center"}
-
-------------------------------------------------------------------------
-
-### [2022](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
-
-![](covid19_impact_2022.PNG){fig-align="center"}
-
-------------------------------------------------------------------------
-
 ### But...
 
 -   Bigger impact on recently arrived migrants (0-4 years)
