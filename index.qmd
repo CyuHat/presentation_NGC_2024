@@ -107,8 +107,6 @@ editor: visual
 
     -   **Increase** mobility intention for **children** living abroad
 
-<!-- -->
-
 -   **The period of life determines mobility intentions** (related to working and non-working ages)
 
     -   In general, migrants of the **older cohort** are associated with **higher intentions to move abroad**
