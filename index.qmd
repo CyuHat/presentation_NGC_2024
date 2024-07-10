@@ -18,7 +18,7 @@ editor: visual
 
 ## Mobility and return migration
 
--   Decision based on the individualistic maximization of utility (NET) and/or on **importance of social network** (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+-   Decision based on the individualistic maximization of utilities (NET) and/or on **importance of social networks** (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
 
 -   Mobility/emigration **intentions** are good predictors of mobility/emigration **behaviors** (Wanner, 2020; Bradley et al. 2008)
 
@@ -34,7 +34,7 @@ editor: visual
 
 -   How life trajectories affect return intentions ?
 
--   [(new) ]{style="color: blue;"}How does the COVID-19 epidemic influence mobility intentions?
+-   [(new)]{style="color: blue;"}How does the COVID-19 epidemic influence mobility intentions?
 
 ## Data and Methods
 
@@ -109,7 +109,7 @@ editor: visual
 
 <!-- -->
 
--   **Period of the life determines mobility intentions** (related to working and non working ages)
+-   **The period of life determines mobility intentions** (related to working and non-working ages)
 
     -   In general, migrants of the **older cohort** are associated with **higher intentions to move abroad**
 
@@ -136,7 +136,7 @@ editor: visual
 
 ### Factor affecting return migration
 
--   **Economic:** Job loss or Income loss
+-   **Economy:** Job loss or Income loss
 
 -   **Health risk:** Access to health care
 
@@ -160,7 +160,7 @@ editor: visual
 
 -   Border **closed** from March 17th to June 15th
 
--   **Testing** and **Quarantine** for high risk country
+-   **Testing** and **Quarantine** for high-risk countries
 
 ### Health
 
@@ -172,21 +172,21 @@ No information yet.
 
 -   **Weak impact on the migration plan** of the individuals ([**MMS**]{style="color: red;"})
 
-    -   Only [**6% of MMS**]{style="color: red;"} respondant reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
+    -   Only [**6% of MMS**]{style="color: red;"} respondents reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
 
-    -   **It is unlinkely to have an effect**
+    -   **It is unlikely to have an effect**
 
 ------------------------------------------------------------------------
 
 ### [2020](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
 
-![](covid19_impact_2020.png){fig-align="center"}
+![](covid19_impact_2020.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
 ### [2022](https://public.tableau.com/app/profile/nccr.on.the.move/viz/Migration-MobilitySurvey-Exploration/Survey)
 
-![](covid19_impact_2022.png){fig-align="center"}
+![](covid19_impact_2022.PNG){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -198,9 +198,9 @@ No information yet.
 
     -   **2022: 10%** of recently arrived migrant **vs 5%** for the rest
 
-**H: We expect a bigger effect of COVID-19 at the beggining of migrants life course.**
+**H: We expect a bigger effect of COVID-19 at the beginning of migrants life course.**
 
--   To compare the effect of COVID-19 over the life course we need **data from the pandemic period in every life cycle step**.
+-   To compare the effect of COVID-19 over the life course, we need **data from the pandemic period in every life trajectory step**.
 
 ------------------------------------------------------------------------
 
@@ -251,20 +251,20 @@ No information yet.
 
 **Comparing the relative level of attachment to the host vs country of origin**
 
--   [Anchoring = Attach. to country of origin - Attach. to Switzerland]{style="color: red;"}
+-   [Anchoring = Attach. to the country of origin - Attach. to Switzerland]{style="color: red;"}
 -   Only on migrants returning to the country of origin
--   Only on migrants with family on the country of origin
+-   Only on migrants with family in the country of origin
 
 ------------------------------------------------------------------------
 
 ## Limits (2)
 
--   Attachment to country of origin missing in [**TAS**]{style="color: blue;"}
+-   Attachment to the country of origin missing in [**TAS**]{style="color: blue;"}
 
 -   Share willing to go to the country of origin: [**52% MMS**]{style="color: red;"} and [**73% TAS**]{style="color: blue;"}
 
     -   Up to half of the data
 
--   **Colinerarity** between haveing a **family member** in the country of origin and the **level of attachment** in the country of origin
+-   **Collinearity** between having a **family member** in the country of origin and the **level of attachment** in the country of origin
 
     -   Anchoring = relative level of attachment
