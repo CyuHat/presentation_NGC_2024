@@ -1,6 +1,15 @@
 ---
-title: "Evolution of Mobility Intentions over the Life Course among Migrants with a Transnational Family"
-author: "Roxane Gerber, Laura Ravazzini & Vestin Hategekimana"
+title: "Evolution of Mobility Intentions over the Life Course and time among Migrants"
+author:
+  - name: "Hategekimana Vestin" 
+    affiliation: "University of Geneva"
+    email: "vestin.hategekimana@unige.ch"
+  - name: "Ravazzini Laura"
+    affiliation: "University of Neuchâtel"
+    email: "laura.ravazzini@unine.ch"
+  - name: "Gerber Roxane"
+    affiliation: "Federal Statistical Office"
+    email: "info.dem@bfs.admin.ch"
 format: 
   revealjs:
     theme: [default, custom.scss]
@@ -8,25 +17,58 @@ format:
 editor: visual
 ---
 
-## Introduction
+### From one to two papers
 
--   Multiple migration phases, **transnational lifestyle** with multiple residences in different countries at the same time (Horn & Schweppe 2017; Amelina & Faist, 2012), **serial or circular migration** (Zufferey, 2019), **and transnational family configurations** (Bryceson and Vuorela 2002)
+![](document_split.png){fig-align="center"}
 
--   “Families that **live some or most of the time separated from each other**, yet hold together and create something that can be seen as a feeling of collective welfare and unity, namely **‘familyhood’, even across national borders**” (Bryceson & Vuorela, 2002, p. 3)
+# (1) Evolution of Mobility Intentions over the Life Course among Migrants with a Transnational Family
 
--   Among migrants living in Switzerland, 7 out of 10 have **close family members living abroad** (SFSO 2019)
+## Introduction: complexification of migration
 
-## Mobility and return migration
+-   Multiple migration phases, **transnational lifestyle** with multiple residences in different countries at the same time (Horn & Schweppe 2017; Amelina & Faist, 2012), **serial or circular migration** (Zufferey, 2019), **and transnational family configurations** (Bryceson and Vuorela, 2002)
 
--   Decision based on the individualistic maximization of utilities (NET) and/or on **importance of social networks** (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+-   **Def:** “Families that **live some or most of the time separated from each other**, yet hold together and create something that can be seen as a feeling of collective welfare and unity, namely **‘familyhood’, even across national borders**” (Bryceson & Vuorela, 2002, p. 3)
 
--   Mobility/emigration **intentions** are good predictors of mobility/emigration **behaviors** (Wanner, 2020; Bradley et al. 2008)
+-   Among migrants living in Switzerland, 7 out of 10 have **close family members living abroad** (SFSO, 2019)
+
+## Mobility and return migration {auto-animate=true}
+
+-   Decision based on the individualistic maximization of utilities (NET) and/or on importance of social networks (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+## Mobility and return migration {auto-animate=true}
+
+-   Decision based on the **individualistic maximization of utilities (NET)** and/or on importance of social networks (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+## Mobility and return migration {auto-animate=true}
+
+-   Decision based on the **individualistic maximization of utilities (NET)** and/or on **importance of social networks** (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+## Mobility and return migration {auto-animate=true}
+
+-   Decision based on the **individualistic maximization of utilities (NET)** and/or on [**importance of social networks**]{style="color: blue;"} (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+:::{.incremental}
 
 -   Family events (union formation, union dissolution, childbirth, etc) **trigger** and job loss **restrains** moves (de Groot et al. 2011)
 
+-   Mobility/emigration **intentions** are good predictors of mobility/emigration **behaviors** (Wanner, 2020; Bradley et al. 2008)
+
+:::
+
+## Mobility and return migration {auto-animate=true}
+
+-   Decision based on the **individualistic maximization of utilities (NET)** and/or on [**importance of social networks**]{style="color: blue;"} (NEM - in host country and abroad) (Borjas & Bratsberg, 1996)
+
+-   Family events (union formation, union dissolution, childbirth, etc) **trigger** and job loss **restrains** moves (de Groot et al. 2011)
+
+-   Mobility/emigration **intentions** are good predictors of mobility/emigration **behaviors** (Wanner, 2020; Bradley et al. 2008)
+
     [Focus on the link between mobility and transnational families using a life course trajectory approach]{style="color: red;"}
 
-## Research questions
+
+## Research questions {auto-animate=true}
+
+::: {.incremental}
 
 -   Is having family members abroad associated with stronger mobility intentions ?
 
@@ -34,7 +76,25 @@ editor: visual
 
 -   How life trajectories affect return intentions ?
 
--   [(new)]{style="color: blue;"}How does the COVID-19 epidemic influence mobility intentions?
+:::
+
+## Research questions {auto-animate=true}
+
+-   Is having family members abroad associated with stronger mobility intentions ?
+
+-   Is this observed at every point during the life course ?
+
+-   How life trajectories affect return intentions ?
+
+-   [How does the COVID-19 epidemic influence mobility intentions?]{style="color: blue;"}
+
+## Research questions {auto-animate=true}
+
+-   Is having family members abroad associated with stronger mobility intentions ?
+
+-   Is this observed at every point during the life course ?
+
+-   How life trajectories affect return intentions ?
 
 ## Data and Methods
 
@@ -66,42 +126,42 @@ editor: visual
 
 -   Having **family abroad** have an effect on mobility intention
 
-    -   **Reduce** mobility intention for **partners** living abroad
+    -   [**Reduce**]{style="color: red;"} mobility intention for individuals with [**partners**]{style="color: red;"} living abroad
 
-    -   **Increase** mobility intention for **children** living abroad
+    -   [**Increase**]{style="color: green;"} mobility intention for individuals with [**children**]{style="color: green;"} living abroad
 
 -   **The period of life determines mobility intentions** (related to working and non-working ages)
 
-    -   In general, migrants of the **older cohort** are associated with **higher intentions to move abroad**
+    -   In general, migrants of the [**older cohort**]{style="color: green;"} are associated with [**higher intentions to move abroad**]{style="color: green;"}
 
-## Limits (1)
+## Limits
 
 -   **Methodological choice** of using two different (but complementary) surveys
 
 -   **Selection effect:** those who have high mobility intentions may have already left
 
--   **Voluntary or involuntary** transnational arrangements? (Levin 2004; Roseneil 2006)
+-   **Voluntary or involuntary** transnational arrangements (Levin 2004; Roseneil 2006)
 
 -   No information about **where** the other members of the (extended) transnational family live (country of origin, another country, …) and the **strength of family ties**
 
--   [**No control for COVID-19 effect**]{style="color: blue;"}
+# (2) Evolution of Mobility Intentions  in time of crisis
 
-## Next step 1: Covid-19
+## Covid-19 impact
 
 -   The **pandemic** had an impact on the physical ability to travel, with countries **closing their borders** and **restricting mobility** to varying degrees (Bloomfield & Ratha, 2020)
 
-    -   Announcements of border closures in certain countries prompted many people to **return to their home countries** out of concern about being **stranded** without income and lacking access to **social protections**.
+    -   Announcements of border closures in certain countries prompted many people to **return to their home countries** out of concern about being **stranded** without income and lacking access to **social protections** (McDermid et al., 2022).
     -   **Stranded migration** has led to a significant number of individuals worldwide experiencing **precarious situations**.
 
-## Next step 1: Covid-19
+## Covid-19
 
-### Factor affecting return migration
+### Factor affecting return migration 
 
--   **Economy:** Job loss or Income loss
+-   **Economy:** Job loss or Income loss  (Rajan & Pattath, 2022)
 
--   **Health risk:** Access to health care
+-   **Health risk:** Covid
 
--   **Travel restriction:** Prevent individual from moving
+-   **Travel restriction:** Prevent individual from moving (González-Leonardo et al., 2024)
 
 ## Covid-19: In Switzerland (1)
 
@@ -123,43 +183,54 @@ editor: visual
 
 -   **Testing** and **Quarantine** for high-risk countries
 
-### Health
-
-No information yet.
-
-## Next step 1: Covid-19
-
--   **Covid-19**: impacted the wave 2020 [**MMS**]{style="color: red;"} and [**TAS**]{style="color: blue;"} since the data was collected in this period
+## Covid-19:
 
 -   **Weak impact on the migration plan** of the individuals ([**MMS**]{style="color: red;"})
 
     -   Only [**6% of MMS**]{style="color: red;"} respondents reported that the Covid-19 outbreak **affected their plan** regarding their stay in Switzerland.
+    
+## Covid-19:
 
-    -   **It is unlikely to have an effect**
+**Did COVID-19 lead to an urban exodus in Switzerland among recently arrived migrants? (Hategekimana & Wanner, ongoing)**
 
-------------------------------------------------------------------------
-
-### But...
-
--   Bigger impact on recently arrived migrants (0-4 years)
-
-    -   **2020: 9%** of recently arrived migrant **vs 5%** for the rest
-
-    -   **2022: 10%** of recently arrived migrant **vs 5%** for the rest
-
-**H: We expect a bigger effect of COVID-19 at the beginning of migrants life course.**
-
--   To compare the effect of COVID-19 over the life course, we need **data from the pandemic period in every life trajectory step**.
+  - Only for recently arrived migrant (Anchor and Stability)
 
 ------------------------------------------------------------------------
 
-![](new_data.png){fig-align="center"}
+## Recently arrived migrants {auto-animate=true}
+
+-   **Covid-19 has a bigger impact on recently arrived migrants (0-4 years)**
+
+    -   **2020**: **9%** of recently arrived migrant vs **5%** for the rest
+
+    -   **2022**: **10%** of recently arrived migrant vs **5%** for the rest
+
+## Recently arrived migrants {auto-animate=true}
+
+-   **Covid-19 has a bigger impact on recently arrived migrants (0-4 years)**
+
+    -   **2020**: [**9%**]{style="color: blue;"} of recently arrived migrant vs [**5%**]{style="color: red;"} for the rest
+
+    -   **2022**: [**10%**]{style="color: blue;"} of recently arrived migrant vs [**5%**]{style="color: red;"} for the rest
+
+
+- **Questions**:
+
+    - Consistent? 
+    
+    - Why?
+    
+    - How?
 
 ------------------------------------------------------------------------
 
 ## Thank you for your attention!
 
 [vestin.hategekimana\@unige.ch](vestin.hategekimana@unige.ch)
+
+------------------------------------------------------------------------
+
+![](new_data.png){fig-align="center"}
 
 ------------------------------------------------------------------------
 
